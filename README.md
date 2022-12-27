@@ -52,6 +52,12 @@ Following are the Machine Learning models used.
 -	Random Forest Classifier - It is used for both classification and regression.It is used to combine multiple classifiers to solve complex problem to improve the performance of the model. It contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset.
 
 
+     ![image](https://user-images.githubusercontent.com/70996037/209705250-9ced8e62-d46f-4a9a-9de9-a2ed20f882c7.png)
+
+
+
+     ![image](https://user-images.githubusercontent.com/70996037/209705238-87815da4-3782-43b8-9a5f-5881d95aff18.png)
+
 
 
 ### 3. Deep Learning Model
