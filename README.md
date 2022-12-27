@@ -54,9 +54,6 @@ Following are the Machine Learning models used.
 
      ![image](https://user-images.githubusercontent.com/70996037/209705250-9ced8e62-d46f-4a9a-9de9-a2ed20f882c7.png)
 
-
-
-
      ![image](https://user-images.githubusercontent.com/70996037/209705238-87815da4-3782-43b8-9a5f-5881d95aff18.png)
 
 
