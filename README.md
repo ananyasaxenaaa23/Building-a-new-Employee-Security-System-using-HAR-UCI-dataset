@@ -17,6 +17,14 @@ The smartphone will detect the employee's activity using the sensors and then th
 For HAR Dataset - https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Data Overview
+
+![image](https://user-images.githubusercontent.com/70996037/209675774-f3a8a36c-dcc5-4495-ad9e-bfcbab741423.png)
+
+-Python libraries will be imported.
+- After that data loading and pre processing will take place. 
+- After that data will be split into two parts training data and testing data.
+- After the data will be passed through the model and then the model will give the result.
+
 Accelerometer and gyroscope readings are collected from 30 employees as they complete the 6 activities. Readings are divided into a 2.56 second window with 50% overlap. The accelerometer readings are broken down into readings of gravitational acceleration and body acceleration, which have three X, Y, and Z components. Gyroscope readings are measures of angular velocity that also have X, Y, and Z components.
 
 The jerk signals are calculated from the measured values of body acceleration. After that, all the basic signal values are calculated for each window: mean, maximum, entropy, etc. Then we get a feature vector of 561 features and these features are provided in the dataset.
