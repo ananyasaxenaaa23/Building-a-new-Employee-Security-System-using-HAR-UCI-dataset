@@ -51,6 +51,9 @@ Following are the Machine Learning models used.
 -	Decision Tree - It is also called classificationa and regression trees. This method has been used for several tasks for pattern recognition and machine learning as predictive model.
 -	Random Forest Classifier - It is used for both classification and regression.It is used to combine multiple classifiers to solve complex problem to improve the performance of the model. It contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset.
 
+
+
+
 ### 3. Deep Learning Model
 -  LSTM model is a type of RNN (Recurrent Neural Network)  which is capable to learn order dependence in sequence prediction models. This remembers the values over arbitary intervals. In this problem it is used to recognize various activities performed by the employees like walking upstairs, walking downstairs and many more.
 
