@@ -1,11 +1,11 @@
 # Building-a-new-Employee-Security-System-using-HAR-UCI-dataset
 Building a new contactless employee check-in system.
--  [**OVERVIEW**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/main/README.md#overview)
--  [**SOURCES/USEFUL LINKS**](https://ghttps://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#Useful-links-and-Sources)
--  [**DATA OVERVIEW**](https://ghttps://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#data-overview)
--  [**TARIN AND TEST RATIO**](https://ghttps://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#train-and-test-ratio)
--  [**FRAMEWORK**](https://ghttps://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#framework)
--  [**WORKING OF THE MODEL**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/edit/main/README.md#working-of-the-model)
+-  [**OVERVIEW**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#overview)
+-  [**SOURCES/USEFUL LINKS**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#Useful-links-and-Sources)
+-  [**DATA OVERVIEW**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#data-overview)
+-  [**TARIN AND TEST RATIO**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#train-and-test-ratio)
+-  [**FRAMEWORK**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#framework)
+-  [**WORKING OF THE MODEL**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#working-of-the-model)
 
 ## Overview
 
