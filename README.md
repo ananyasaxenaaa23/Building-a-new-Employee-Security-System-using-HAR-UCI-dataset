@@ -20,7 +20,7 @@ For HAR Dataset - https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recogni
 
 ![image](https://user-images.githubusercontent.com/70996037/209675774-f3a8a36c-dcc5-4495-ad9e-bfcbab741423.png)
 
--Python libraries will be imported.
+- Python libraries will be imported.
 - After that data loading and pre processing will take place. 
 - After that data will be split into two parts training data and testing data.
 - After the data will be passed through the model and then the model will give the result.
