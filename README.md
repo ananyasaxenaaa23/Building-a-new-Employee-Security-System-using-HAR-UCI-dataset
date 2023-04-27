@@ -59,7 +59,7 @@ Following are the Machine Learning models used.
           
           
           
-      ![image](https://user-images.githubusercontent.com/70996037/209706935-d48582fb-cfe7-40c8-9320-5ee66f3c5026.png)
+      
 
 ### 3. Deep Learning Model
 -  LSTM model is a type of RNN (Recurrent Neural Network)  which is capable to learn order dependence in sequence prediction models. This remembers the values over arbitary intervals. In this problem it is used to recognize various activities performed by the employees like walking upstairs, walking downstairs and many more.
