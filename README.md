@@ -48,7 +48,7 @@ Following are the Machine Learning models used.
 -	Logistic Regression - In this model, the probabilities describing the possible outcomes of a single trial are modeled using a logistic function.
 -	Liner SVC - Linear Support Vector Classifier applies a liner kernel function to perform classification and it performs good with large number of samples.
 -	Kernel SVM - It is used as it has a set of mathematical functions used in SVM providing the window to manipulate the data.
--	Decision Tree - It is also called classificationa and regression trees. This method has been used for several tasks for pattern recognition and machine learning as predictive model.
+-	Decision Tree - It is also called classification and regression trees. This method has been used for several tasks for pattern recognition and machine learning as predictive model.
 -	Random Forest Classifier - It is used for both classification and regression.It is used to combine multiple classifiers to solve complex problem to improve the performance of the model. It contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset.
 
 
