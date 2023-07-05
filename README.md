@@ -1,4 +1,4 @@
-# Building-a-new-Employee-Security-System-using-HAR-UCI-dataset
+# Gait Analysis Using Machine Learning
 Building a new contactless employee check-in system.
 -  [**OVERVIEW**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#overview)
 -  [**SOURCES/USEFUL LINKS**](https://github.com/ananyasaxenaaa23/Building-a-new-Employee-Security-System-using-HAR-UCI-dataset/blob/main/README.md#Useful-links-and-Sources)
